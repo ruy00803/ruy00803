@@ -22,7 +22,7 @@ Web開発ではTypeScript / Next.jsも使用しています。
 
 ### [Baseball Draft Prediction](https://github.com/ruy00803/Baseball-player-Draft-predict-score)
 
-リーケージを防ぐ特徴量設計と勾配ブースティングを用いたドラフト指名予測です。  
+OOF Target Encodingと勾配ブースティングを用いたドラフト指名予測です。  
 `Python` `LightGBM` `XGBoost` `Optuna`
 
 ## Tech Stack
