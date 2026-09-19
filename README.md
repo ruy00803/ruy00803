@@ -1,44 +1,33 @@
-<!--## Hi there 👋
+# Hi, I'm Ryu 👋
 
-<!--
-**ruy00803/ruy00803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pythonを中心に、機械学習・生成AI・データ分析を活用したアプリケーションを開発しています。  
+Web開発ではTypeScript / Next.jsも使用しています。
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ruy00803&color=blue" />
-</div>
+### [ML Experiment Diff Agent](https://github.com/ruy00803/ml-diff-agent)
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there, I'm Ryu
+機械学習の実験コードを比較し、変更点や確認事項をGeminiで整理するStreamlitアプリです。  
+`Python` `Streamlit` `Gemini API` `pytest`
 
-- 🧑‍💻 I'm a first-year Master's student.
-- 🌱 I’m currently learning Python!
-- 🔬 Focusing on **Machine Learning** & **Medical Image Analysis** (GANs / MRI)
+### [Multilingual Restaurant Website](https://github.com/ruy00803/parmenara-tokoname)
 
-<br>
+日本語・英語・韓国語・中国語に対応したレストランWebサイトです。  
+`Next.js` `TypeScript` `next-intl` `microCMS`
 
-## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=python,sklearn,html,css,js,ubuntu" />
-<br>
-※ LightGBM, XGBoost, Optuna, Streamlit をメインで使用しています。
+### [Employee Attrition Analytics](https://github.com/ruy00803/Employee-Attrition-Analysis-HR-Strategy-Proposal)
 
-## 🏃‍♀️ Current Activities & Projects
-- 📈 **HR Analytics**: 従業員の離職予測モデルの構築と経営施策の提案（GCI最終課題）
-- ⚾ **Baseball Analytics**: プロ野球選手のドラフト指名予測（独自特徴量設計）
-- ⏱️ **Life Tracker**: Streamlitを用いた個人の行動ログ・可視化アプリの開発
-- 🧠 **Medical AI**: GANを用いたアルツハイマー病進行予測の研究
+従業員データの分析から離職予測モデルの構築、施策提案までを行ったケーススタディです。  
+`Python` `LightGBM` `Pandas` `Seaborn`
 
-## 📊 GitHub Stats
-<div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=ruy00803&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruy00803&theme=vue-dark&layout=compact" />
-</div>
+### [Baseball Draft Prediction](https://github.com/ruy00803/Baseball-player-Draft-predict-score)
+
+リーケージを防ぐ特徴量設計と勾配ブースティングを用いたドラフト指名予測です。  
+`Python` `LightGBM` `XGBoost` `Optuna`
+
+## Tech Stack
+
+- Languages: Python, TypeScript, JavaScript, HTML, CSS
+- Data & ML: Pandas, NumPy, scikit-learn, LightGBM, XGBoost, Optuna
+- Apps & Web: Streamlit, Next.js, Tailwind CSS
+- Tools: Git, GitHub, pytest
