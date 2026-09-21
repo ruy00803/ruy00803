@@ -15,11 +15,6 @@ Web開発ではTypeScript / Next.jsも使用しています。
 日本語・英語・韓国語・中国語に対応したレストランWebサイトです。  
 `Next.js` `TypeScript` `next-intl` `microCMS`
 
-### [Employee Attrition Analytics](https://github.com/ruy00803/Employee-Attrition-Analysis-HR-Strategy-Proposal)
-
-従業員データの分析から離職予測モデルの構築、施策提案までを行ったケーススタディです。  
-`Python` `LightGBM` `Pandas` `Seaborn`
-
 ### [Baseball Draft Prediction](https://github.com/ruy00803/Baseball-player-Draft-predict-score)
 
 OOF Target Encodingと勾配ブースティングを用いたドラフト指名予測です。  
