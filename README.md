@@ -5,7 +5,23 @@ TypeScript / Next.jsによるWeb開発にも取り組んでいます。
 
 コードによる処理と生成AIの役割分担、外部APIとの連携、データ分析の検証方法を意識して制作しています。
 
-## Featured Projects
+## 🛠️ Tech Stack
+
+### Python・機械学習
+
+<img src="https://skillicons.dev/icons?i=python,sklearn&theme=dark" alt="Python / scikit-learn" />
+
+`Pandas` `NumPy` `LightGBM` `XGBoost` `Optuna` `Streamlit` `pytest`
+
+### Web開発
+
+<img src="https://skillicons.dev/icons?i=ts,js,html,css,nextjs,tailwind,supabase&theme=dark&perline=7" alt="TypeScript / JavaScript / HTML / CSS / Next.js / Tailwind CSS / Supabase" />
+
+### 開発ツール・環境
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,ubuntu&theme=dark&perline=7" alt="Git / GitHub / GitHub Actions / Ubuntu" />
+
+## 🚀 Featured Projects
 
 ### [ML Experiment Diff Agent](https://github.com/ruy00803/ml-diff-agent)
 
@@ -35,17 +51,10 @@ OAuth認証、サーバー側でのAPI連携、活動時間の記録・可視化
 特徴量設計と勾配ブースティングを比較し、Target Encodingを学習fold内で処理する評価コードを整備しています。修正後の元データによる再評価は未実施です。  
 `Python` `scikit-learn` `LightGBM` `XGBoost` `Optuna`
 
-## Analysis & Learning
+## 📊 Analysis & Learning
 
 ### [Employee Attrition Analysis](https://github.com/ruy00803/Employee-Attrition-Analysis-HR-Strategy-Proposal)
 
 東京大学GCIの最終課題として取り組んだ、架空企業の人事データ分析の学習記録です。  
 EDA・LightGBMによる離職予測と施策仮説の検討を、Notebookと当時の提出資料にまとめています。元データ・最終コードが未収録のため、掲載数値は当時の記録として扱っています。  
 `Python` `Pandas` `LightGBM` `Jupyter Notebook`
-
-## Tech Stack
-
-- Languages: Python, TypeScript, JavaScript, HTML, CSS
-- Data & ML: Pandas, NumPy, scikit-learn, LightGBM, XGBoost, Optuna
-- Apps & Web: Streamlit, Next.js, Tailwind CSS, Supabase
-- Tools: Git, GitHub, pytest, GitHub Actions
