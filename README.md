@@ -23,6 +23,12 @@ TypeScript / Next.jsによるWeb開発にも取り組んでいます。
 
 ## 🚀 Featured Projects
 
+### [AI Quant Portfolio — 日本株の市場残差リターン予測](https://github.com/ruy00803/ai-quant-portfolio)
+
+日本株498銘柄を対象に、価格・流動性・財務情報から銘柄の相対的な強弱を予測した分析プロジェクトです。  
+5-fold Walk-forwardで仮説を比較し、営業CF/総資産の追加でValidのコスト控除後Sharpeを1.128から1.328へ改善。棄却した仮説や期間別の弱点、Valid参照による選択バイアスも記録しています。非公開データのため、主要処理・集約結果・自動テストを公開しています。  
+`Python` `Pandas` `NumPy` `scikit-learn` `Matplotlib` `unittest`
+
 ### [ML Experiment Diff Agent](https://github.com/ruy00803/ml-diff-agent)
 
 機械学習実験のPython・Notebookを比較し、変更点と確認事項をGeminiで日本語に整理するアプリです。  
